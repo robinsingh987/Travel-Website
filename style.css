@@ -8,7 +8,7 @@
 .header {
   min-height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(vecteezy_ai-generated-friend-enjoying-a-summer-camping-with-friends_35923932.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(background-with-friends.png);
   background-size: cover;
   background-position: center;
 }
